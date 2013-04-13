@@ -221,7 +221,8 @@ p.news3{
     font-size: 20px;
 }
 
-a.sociallinks {
+.sociallinks{
+    text-decoration: none;
     color: blue;
     font-size: 40px;
 }
