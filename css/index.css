@@ -101,7 +101,7 @@ a.blueLinkBar {
     background-color: #f5f5dc;
 }
 
-.news{
+.news {
     margin-right: 430px;
     margin-left: 540px;
 }
@@ -113,22 +113,24 @@ a.blueLinkBar {
     font-size: 45px;
 }
 
-.news-head{
+.news-head {
     font-style: normal;
     margin-top: -50px;
-    text-align:left;
+    text-align: left;
     font-size: 45px;
     margin-left: -250px;
 }
 
-.footerText{
-    font-size: 20px ;
+.footerText {
+    font-size: 20px;
     font-family: Microsoft YaHei;
-    color:GrayText;
+    color: GrayText;
 }
-.footerHead{
+
+.footerHead {
     font-family: Microsoft YaHei;
 }
+
 p.agile {
 
     color: GrayText;
@@ -173,36 +175,37 @@ a.hyperlink {
     background-color: #f5f5dc;
 }
 
-p.news1{
+p.news1 {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -210px;
     margin-bottom: 0.4em;
     margin-left: -60px;
 }
 
-p.news2{
+p.news2 {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -597px;
     margin-bottom: 0.4em;
     margin-left: 230px;
 }
 
-p.news3{
+p.news3 {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -395px;
     margin-bottom: 0.4em;
     margin-left: 500px;
 
 }
+
 #AboutUs {
     margin-left: 430px;
     margin-right: 430px;
@@ -228,7 +231,7 @@ p.news3{
     font-size: 20px;
 }
 
-.sociallinks{
+.socialLinks {
     text-decoration: none;
     color: blue;
     font-size: 40px;
@@ -237,4 +240,9 @@ p.news3{
 #img {
     height: 40px;
     width: 40px;
+}
+
+.privacyPolicy {
+    color: white;
+    font-size: 20px;
 }
