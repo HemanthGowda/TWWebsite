@@ -1,14 +1,28 @@
-#linksBar{
+#linksBar {
     text-align: left;
-    font-size: 20px;
-    margin-left: 20px;
+    font-size: 22px;
 }
 
-#Header{
-    padding: 200px;
+#Header {
+    height: 360px;
     text-align: left;
-    margin-top: 5px;
     background-color: white;
+    margin-right: 430px;
+    margin-left: 430px;
+    font-size: 60px;
+}
+
+#HeaderText {
+    font-size: 80px;
+    font-family: Century Gothic, fantasy;
+    font-weight: lighter;
+    color: black;
+}
+
+#HeaderDescription {
+    font-size: 26px;
+    font-family: serif;
+    color: #a9a9a9;
 }
 
 #Clients {
@@ -16,40 +30,26 @@
     background-color: #f5f5dc;
 }
 
-#Work{
-    padding: 200px;
+#Work {
+    height: 330px;
     background-color: white;
     font-size: 30px;
     font-family: Microsoft YaHei;
 }
 
-#News{
-    padding: 250px;
+#News {
+    height: 400px;
     background-color: #f5f5dc;
 }
 
-#Footer{
-    padding: 300px;
-    background-color: #f5f5dc;
+#AboutUs {
+    height: 1000px;
+    background-color: white;
 }
 
-.item-head{
-    font-style: normal;
-    margin-top: -150px;
-    text-align:left;
-    font-size: 45px;
-}
-p.narrow-text{
-
-    text-align:left;
-    font-size: 17px;
-    line-height:1.5em;
-    margin-top: -210px;
-    margin-bottom: 0.4em;
-    margin-left: 280px;
-}
-a.hyperlink{
-    color: aquamarine;
-    font-size: 25px;
-    display:block;text-align:left;
+#Footer {
+    height: 100px;
+    background-color: black;
+    text-decoration: underline;
+    text-align: center;
 }
