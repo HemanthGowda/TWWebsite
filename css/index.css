@@ -31,7 +31,7 @@
 }
 
 #Work {
-    height: 300px;
+    height: 430px;
     margin-top: 200;
     background-color: white;
     margin-left: 430px;
@@ -57,6 +57,7 @@
     font-size: 45px;
 }
 p.agile{
+    color: GrayText;
     text-align:left;
     font-size: 20px;
     line-height:1.5em;
@@ -66,13 +67,25 @@ p.agile{
 }
 
 p.sip{
+    color: GrayText;
     text-align:left;
     font-size: 20px;
     line-height:1.5em;
-    margin-top: -245px;
+    margin-top: -390px;
     margin-bottom: 0.4em;
-    margin-left: 660px;
+    margin-left: 490px;
 }
+
+p.osc{
+    color: GrayText;
+    text-align:left;
+    font-size: 20px;
+    line-height:1.5em;
+    margin-top: -335px;
+    margin-bottom: 0.4em;
+    margin-left: 780px;
+}
+
 a.hyperlink{
     color: aquamarine;
     font-size: 25px;
