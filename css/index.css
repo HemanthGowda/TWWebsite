@@ -2,7 +2,8 @@
     text-align: left;
     font-size: 22px;
     font-weight: lighter;
-
+    color: black;
+    text-decoration: none   ;
 }
 
 #Header {
@@ -33,10 +34,40 @@
     background-color: #f5f5dc;
 }
 
-#ClientHeader{
-    margin-right: 430px;
-    margin-left: 480px;
-    font-family: Calibri,serif;
+#ClientsHead {
+    width: 10px;
+    margin-left: 430px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+#client1 {
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.5em;
+    margin-top: -150px;
+    margin-bottom: 0.4em;
+    margin-left: 650px;
+}
+
+#client2 {
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.5em;
+    margin-top: -170px;
+    margin-bottom: 0.4em;
+    margin-left: 1000px;
+}
+
+#leftArrow {
+    margin-left: 580px;
+    margin-top: -70px;
+}
+
+#rightArrow {
+    text-align: right;
+    margin-right: 500px;
+    margin-top: -90px;
 }
 
 #Work {
@@ -54,39 +85,42 @@
     background-color: #f5f5dc;
 }
 
-#Footer{
+#Footer {
     padding: 300px;
     background-color: #f5f5dc;
 }
 
-.item-head{
+.item-head {
     font-style: normal;
     margin-top: -150px;
-    text-align:left;
+    text-align: left;
     font-size: 45px;
 }
-p.agile{
 
-    text-align:left;
+p.agile {
+
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -210px;
     margin-bottom: 0.4em;
     margin-left: 190px;
 }
 
-p.sip{
-    text-align:left;
+p.sip {
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -245px;
     margin-bottom: 0.4em;
     margin-left: 660px;
 }
-a.hyperlink{
+
+a.hyperlink {
     color: aquamarine;
     font-size: 25px;
-    display:block;text-align:left;
+    display: block;
+    text-align: left;
 }
 
 #News {
@@ -102,13 +136,13 @@ a.hyperlink{
 }
 
 #Footer {
-    height: 100px;
+    height: 10px;
     background-color: black;
     text-decoration: underline;
     text-align: center;
 }
 
-#AboutThoughtWorks,#HearFromUs{
+#AboutThoughtWorks, #HearFromUs {
     height: 30px;
     width: 500px;
     float: left;
