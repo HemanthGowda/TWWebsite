@@ -46,7 +46,7 @@
 }
 
 #Footer{
-    padding: 300px;
+    margin-top: -7em;
     background-color: #f5f5dc;
 }
 
@@ -88,7 +88,7 @@ a.hyperlink{
 #AboutUs {
     margin-left: 430px;
     margin-right: 430px;
-    height: 500px;
+    height: 400px;
     background-color: white;
 }
 
@@ -103,4 +103,19 @@ a.hyperlink{
     height: 30px;
     width: 500px;
     float: left;
+}
+
+.a{
+    color: white;
+    font-size: 20px;
+}
+
+.sociallinks{
+    color: blue;
+    font-size: 40px;
+}
+
+#img{
+    height: 40px;
+    width: 40px;
 }
