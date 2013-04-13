@@ -1,0 +1,49 @@
+#Header {
+    height: 300px;
+    text-align: left;
+    background-color: white;
+    margin-right: 430px;
+    margin-left: 430px;
+}
+
+#Clients {
+    height: 300px;
+    text-align: left;
+    background-color: #f5f5dc;
+}
+
+#Work {
+    height: 430px;
+    margin-top: 200px;
+    background-color: white;
+    margin-left: 430px;
+    margin-right: 430px;
+}
+
+#News {
+    padding: 130px;
+    background-color: #f5f5dc;
+    height: 400px;
+    background-color: #f5f5dc;
+}
+
+#Footer {
+    margin-top: -7em;
+    background-color: black;
+    height: 120px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#AboutUs {
+    margin-left: 430px;
+    margin-right: 430px;
+    height: 400px;
+    background-color: white;
+}
+
+#AboutThoughtWorks, #HearFromUs {
+    height: 30px;
+    width: 500px;
+    float: left;
+}

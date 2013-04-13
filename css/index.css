@@ -1,4 +1,5 @@
 a.blackLinksBar {
+    font-family: Century Gothic, fantasy;
     text-align: left;
     font-size: 22px;
     font-weight: lighter;
@@ -7,22 +8,17 @@ a.blackLinksBar {
 }
 
 a.pinkLinkBar {
+    font-family: Century Gothic, fantasy;
     color: #ff0e4d;
+    font-size: 22px;
     text-decoration: none;
 }
 
 a.blueLinkBar {
+    font-family: Century Gothic, fantasy;
+    font-size: 22px;
     color: #5cb0ff;
     text-decoration: none;
-}
-
-#Header {
-    height: 300px;
-    text-align: left;
-    background-color: white;
-    margin-right: 430px;
-    margin-left: 430px;
-    font-size: 22px;
 }
 
 #HeaderText {
@@ -33,124 +29,107 @@ a.blueLinkBar {
 }
 
 #HeaderDescription {
-    font-size: 26px;
+    font-size: 30px;
     font-family: serif;
     color: #a9a9a9;
 }
 
-#Clients {
-    height: 300px;
-    text-align: left;
-    background-color: #f5f5dc;
-}
-
 #ClientsHead {
+    font-family: Microsoft YaHei,serif;
     width: 10px;
     margin-left: 430px;
-    font-size: 40px;
-    font-family: sans-serif;
+    font-size: 45px;
 }
 
 #client1 {
+    color: GrayText;
+    font-family: Microsoft YaHei,serif;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
     margin-top: -150px;
     margin-bottom: 0.4em;
-    margin-left: 650px;
+    margin-left: 700px;
 }
 
 #client2 {
+    color: GrayText;
+    font-family: Microsoft YaHei,serif;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
     margin-top: -170px;
     margin-bottom: 0.4em;
-    margin-left: 1000px;
+    margin-left: 1100px;
 }
 
 #leftArrow {
     margin-left: 580px;
-    margin-top: -70px;
+    margin-top: -110px;
 }
 
 #rightArrow {
     text-align: right;
-    margin-right: 500px;
+    margin-right: 550px;
     margin-top: -90px;
 }
 
-#Work {
-    height: 430px;
-    margin-top: 200;
-    background-color: white;
-    margin-left: 430px;
-    margin-right: 430px;
-    font-size: 30px;
-    font-family: Microsoft YaHei;
-}
-
-#News {
-    font-family: Microsoft YaHei;
-    padding: 130px;
-    background-color: #f5f5dc;
-}
-
-#Footer {
-    margin-top: -7em;
-    background-color: #f5f5dc;
-}
-
-.news{
+.news {
     margin-right: 430px;
     margin-left: 540px;
 }
 
 .item-head {
+    font-family: Microsoft YaHei,serif;
     font-style: normal;
     margin-top: -150px;
     text-align: left;
     font-size: 45px;
 }
 
-.news-head{
+.news-head {
+    font-family: Microsoft YaHei,serif;
     font-style: normal;
     margin-top: -50px;
-    text-align:left;
+    text-align: left;
     font-size: 45px;
     margin-left: -250px;
 }
 
-.footerText{
-    font-size: 20px ;
-    font-family: Microsoft YaHei;
-    color:GrayText;
+.footerText {
+    font-size: 20px;
+    font-family: Microsoft YaHei,serif;
+    color: GrayText;
 }
-.footerHead{
-    font-family: Microsoft YaHei;
-}
-p.agile {
 
+.footerHead {
+    font-family: Microsoft YaHei,serif;
+}
+
+p.agile {
+    font-family: Microsoft YaHei,serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
     margin-top: -210px;
     margin-bottom: 0.4em;
-    margin-left: 190px;
+    margin-left: 210px;
 }
 
 p.sip {
+    font-family: Microsoft YaHei,serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
-    margin-top: -390px;
+    margin-top: -400px;
     margin-bottom: 0.4em;
-    margin-left: 490px;
+    margin-left: 510px;
 }
 
 p.osc {
+    font-family: Microsoft YaHei,serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
@@ -158,6 +137,7 @@ p.osc {
     margin-top: -335px;
     margin-bottom: 0.4em;
     margin-left: 780px;
+    margin-right: 150px;
 }
 
 a.hyperlink {
@@ -168,59 +148,38 @@ a.hyperlink {
     text-align: left;
 }
 
-#News {
-    height: 400px;
-    background-color: #f5f5dc;
-}
-
-p.news1{
+p.news1 {
+    font-family: Microsoft YaHei,serif;
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -210px;
     margin-bottom: 0.4em;
-    margin-left: -60px;
+    margin-left: -30px;
 }
 
-p.news2{
+p.news2 {
+    font-family: Microsoft YaHei,serif;
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
-    margin-top: -597px;
+    line-height: 1.5em;
+    margin-top: -610px;
     margin-bottom: 0.4em;
-    margin-left: 230px;
+    margin-left: 270px;
 }
 
-p.news3{
+p.news3 {
+    font-family: Microsoft YaHei,serif;
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -395px;
     margin-bottom: 0.4em;
-    margin-left: 500px;
+    margin-left: 540px;
 
-}
-#AboutUs {
-    margin-left: 430px;
-    margin-right: 430px;
-    height: 400px;
-    background-color: white;
-}
-
-#Footer {
-    height: 120px;
-    background-color: black;
-    text-decoration: underline;
-    text-align: center;
-}
-
-#AboutThoughtWorks, #HearFromUs {
-    height: 30px;
-    width: 500px;
-    float: left;
 }
 
 .a {
@@ -228,7 +187,7 @@ p.news3{
     font-size: 20px;
 }
 
-.sociallinks{
+.sociallinks {
     text-decoration: none;
     color: blue;
     font-size: 40px;
@@ -237,4 +196,8 @@ p.news3{
 #img {
     height: 40px;
     width: 40px;
+}
+
+.socialLinksHeader {
+    font-family: Microsoft YaHei,serif;
 }
