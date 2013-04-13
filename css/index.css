@@ -164,6 +164,7 @@ a.hyperlink{
 }
 
 .sociallinks{
+    text-decoration: none;
     color: blue;
     font-size: 40px;
 }
