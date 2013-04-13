@@ -35,7 +35,7 @@ a.blueLinkBar {
 }
 
 #ClientsHead {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     width: 10px;
     margin-left: 430px;
     font-size: 45px;
@@ -43,7 +43,7 @@ a.blueLinkBar {
 
 #client1 {
     color: GrayText;
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
@@ -54,7 +54,7 @@ a.blueLinkBar {
 
 #client2 {
     color: GrayText;
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
@@ -80,7 +80,7 @@ a.blueLinkBar {
 }
 
 .item-head {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     font-style: normal;
     margin-top: -150px;
     text-align: left;
@@ -88,7 +88,7 @@ a.blueLinkBar {
 }
 
 .news-head {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     font-style: normal;
     margin-top: -50px;
     text-align: left;
@@ -98,16 +98,16 @@ a.blueLinkBar {
 
 .footerText {
     font-size: 20px;
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     color: GrayText;
 }
 
 .footerHead {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
 }
 
 p.agile {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
@@ -118,7 +118,7 @@ p.agile {
 }
 
 p.sip {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
@@ -129,7 +129,7 @@ p.sip {
 }
 
 p.osc {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
@@ -149,8 +149,13 @@ a.hyperlink {
 }
 
 p.news1 {
-    font-family: Microsoft YaHei,serif;
-    color: GrayText;
+    font-family: Microsoft YaHei, serif;
+    height: 400px;
+    background-color: #f5f5dc;
+}
+
+p.news1 {
+> > > > > > > 4483233 d4863a6e27faac66edb32be99d412b870 color : GrayText;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
@@ -160,18 +165,18 @@ p.news1 {
 }
 
 p.news2 {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
     line-height: 1.5em;
-    margin-top: -610px;
+    margin-top: -410px;
     margin-bottom: 0.4em;
     margin-left: 270px;
 }
 
 p.news3 {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
     color: GrayText;
     text-align: left;
     font-size: 20px;
@@ -187,7 +192,7 @@ p.news3 {
     font-size: 20px;
 }
 
-.sociallinks {
+.socialLinks {
     text-decoration: none;
     color: blue;
     font-size: 40px;
@@ -199,5 +204,11 @@ p.news3 {
 }
 
 .socialLinksHeader {
-    font-family: Microsoft YaHei,serif;
+    font-family: Microsoft YaHei, serif;
+}
+
+.privacyPolicy {
+    color: white;
+    font-size: 20px;
+
 }
