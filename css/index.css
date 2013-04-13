@@ -1,10 +1,10 @@
-#linksBar{
+#linksBar {
     text-align: left;
     font-size: 20px;
     margin-left: 20px;
 }
 
-#Header{
+#Header {
     height: 350px;
     text-align: left;
     margin-top: 5px;
@@ -16,22 +16,24 @@
     background-color: #f5f5dc;
 }
 
-#Work{
+#Work {
     height: 330px;
     background-color: white;
 }
 
-#News{
+#News {
     height: 400px;
     background-color: #f5f5dc;
 }
 
-#AboutUs{
-    height: 1000px;
+#AboutUs {
+    margin-left: 430px;
+    margin-right: 430px;
+    height: 500px;
     background-color: white;
 }
 
-#Footer{
+#Footer {
     height: 100px;
     background-color: black;
     text-decoration: underline;

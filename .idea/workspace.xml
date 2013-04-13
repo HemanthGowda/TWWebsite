@@ -4,8 +4,8 @@
     <list default="true" id="de6da01d-2e48-4570-898c-b7c8386b97a5" name="Default" comment="" />
     <ignored path="TWWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.css" changelist="de6da01d-2e48-4570-898c-b7c8386b97a5" time="1365828706982" ignored="false" />
-    <file path="/index.html" changelist="de6da01d-2e48-4570-898c-b7c8386b97a5" time="1365829309381" ignored="false" />
+    <file path="/index.css" changelist="de6da01d-2e48-4570-898c-b7c8386b97a5" time="1365830120501" ignored="false" />
+    <file path="/index.html" changelist="de6da01d-2e48-4570-898c-b7c8386b97a5" time="1365829986384" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.75884247">
+            <state line="33" column="7" selection-start="916" selection-end="916" vertical-scroll-proportion="0.75884247">
               <folding>
                 <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,7 +50,7 @@
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="24" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+            <state line="21" column="1" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -359,14 +359,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+        <state line="21" column="1" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.75884247">
+        <state line="33" column="7" selection-start="916" selection-end="916" vertical-scroll-proportion="0.75884247">
           <folding>
             <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
