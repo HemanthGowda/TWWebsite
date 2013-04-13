@@ -155,6 +155,7 @@ p.osc {
 }
 
 a.hyperlink {
+    text-decoration: none;
     color: aquamarine;
     font-size: 25px;
     display: block;
