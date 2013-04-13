@@ -1,15 +1,28 @@
-#linksBar {
+a.blackLinksBar {
     text-align: left;
     font-size: 22px;
+    font-weight: lighter;
+    color: black;
+    text-decoration: none;
+}
+
+a.pinkLinkBar {
+    color: #ff0e4d;
+    text-decoration: none;
+}
+
+a.blueLinkBar {
+    color: #5cb0ff;
+    text-decoration: none;
 }
 
 #Header {
-    height: 360px;
+    height: 300px;
     text-align: left;
     background-color: white;
     margin-right: 430px;
     margin-left: 430px;
-    font-size: 60px;
+    font-size: 22px;
 }
 
 #HeaderText {
@@ -26,8 +39,45 @@
 }
 
 #Clients {
-    padding: 150px;
+    height: 300px;
+    text-align: left;
     background-color: #f5f5dc;
+}
+
+#ClientsHead {
+    width: 10px;
+    margin-left: 430px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+#client1 {
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.5em;
+    margin-top: -150px;
+    margin-bottom: 0.4em;
+    margin-left: 650px;
+}
+
+#client2 {
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.5em;
+    margin-top: -170px;
+    margin-bottom: 0.4em;
+    margin-left: 1000px;
+}
+
+#leftArrow {
+    margin-left: 580px;
+    margin-top: -70px;
+}
+
+#rightArrow {
+    text-align: right;
+    margin-right: 500px;
+    margin-top: -90px;
 }
 
 #Work {
@@ -46,8 +96,8 @@
     background-color: #f5f5dc;
 }
 
-#Footer{
-    padding: 300px;
+#Footer {
+    margin-top: -7em;
     background-color: #f5f5dc;
 }
 
@@ -55,12 +105,15 @@
     margin-right: 430px;
     margin-left: 430px;
 }
-.item-head{
+
+.item-head {
+
     font-style: normal;
     margin-top: -150px;
-    text-align:left;
+    text-align: left;
     font-size: 45px;
 }
+
 .news-head{
     font-style: normal;
     margin-top: -150px;
@@ -68,40 +121,44 @@
     font-size: 45px;
     margin-left: -250px;
 }
-p.agile{
+
+
+p.agile {
+
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -210px;
     margin-bottom: 0.4em;
     margin-left: 190px;
 }
 
-p.sip{
+p.sip {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -390px;
     margin-bottom: 0.4em;
     margin-left: 490px;
 }
 
-p.osc{
+p.osc {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -335px;
     margin-bottom: 0.4em;
     margin-left: 780px;
 }
 
-a.hyperlink{
+a.hyperlink {
     color: aquamarine;
     font-size: 25px;
-    display:block;text-align:left;
+    display: block;
+    text-align: left;
 }
 
 #News {
@@ -142,19 +199,34 @@ p.news3{
 #AboutUs {
     margin-left: 430px;
     margin-right: 430px;
-    height: 500px;
+    height: 400px;
     background-color: white;
 }
 
 #Footer {
-    height: 100px;
+    height: 120px;
     background-color: black;
     text-decoration: underline;
     text-align: center;
 }
 
-#AboutThoughtWorks,#HearFromUs{
+#AboutThoughtWorks, #HearFromUs {
     height: 30px;
     width: 500px;
     float: left;
+}
+
+.a {
+    color: white;
+    font-size: 20px;
+}
+
+a.sociallinks {
+    color: blue;
+    font-size: 40px;
+}
+
+#img {
+    height: 40px;
+    width: 40px;
 }
