@@ -3,21 +3,21 @@ a.blackLinksBar {
     font-size: 22px;
     font-weight: lighter;
     color: black;
-    text-decoration: none   ;
+    text-decoration: none;
 }
 
-a.pinkLinkBar{
+a.pinkLinkBar {
     color: #ff0e4d;
     text-decoration: none;
 }
 
-a.blueLinkBar{
+a.blueLinkBar {
     color: #5cb0ff;
     text-decoration: none;
 }
 
 #Header {
-    height: 360px;
+    height: 300px;
     text-align: left;
     background-color: white;
     margin-right: 430px;
@@ -95,7 +95,7 @@ a.blueLinkBar{
     background-color: #f5f5dc;
 }
 
-#Footer{
+#Footer {
     margin-top: -7em;
     background-color: #f5f5dc;
 }
@@ -106,9 +106,10 @@ a.blueLinkBar{
     text-align: left;
     font-size: 45px;
 }
-p.agile{
+
+p.agile {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
     line-height: 1.5em;
     margin-top: -210px;
@@ -116,27 +117,27 @@ p.agile{
     margin-left: 190px;
 }
 
-p.sip{
+p.sip {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -390px;
     margin-bottom: 0.4em;
     margin-left: 490px;
 }
 
-p.osc{
+p.osc {
     color: GrayText;
-    text-align:left;
+    text-align: left;
     font-size: 20px;
-    line-height:1.5em;
+    line-height: 1.5em;
     margin-top: -335px;
     margin-bottom: 0.4em;
     margin-left: 780px;
 }
 
-a.hyperlink{
+a.hyperlink {
     color: aquamarine;
     font-size: 25px;
     display: block;
@@ -168,7 +169,7 @@ a.hyperlink{
     float: left;
 }
 
-.a{
+.a {
     color: white;
     font-size: 20px;
 }
@@ -179,7 +180,7 @@ a.hyperlink{
     font-size: 40px;
 }
 
-#img{
+#img {
     height: 40px;
     width: 40px;
 }
