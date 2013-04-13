@@ -19,6 +19,8 @@
 #Work{
     padding: 200px;
     background-color: white;
+    font-size: 30px;
+    font-family: Microsoft YaHei;
 }
 
 #News{
@@ -29,4 +31,26 @@
 #Footer{
     padding: 300px;
     background-color: #f5f5dc;
+}
+
+.item-head{
+    font-style: normal;
+    margin-top: -150px;
+    text-align:left;
+    font-size: 45px;
+}
+p.narrow-text{
+
+    text-align:left;
+    font-size: 17px;
+    color: graytext;
+    line-height:1.5em;
+    margin-top: -210px;
+    margin-bottom: 0.4em;
+    margin-left: 280px;
+}
+a.hyperlink{
+    color: aquamarine;
+    font-size: 25px;
+    display:block;text-align:left;
 }
