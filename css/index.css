@@ -91,6 +91,7 @@ a.blueLinkBar {
 }
 
 #News {
+    font-family: Microsoft YaHei;
     padding: 250px;
     background-color: #f5f5dc;
 }
@@ -100,14 +101,30 @@ a.blueLinkBar {
     background-color: #f5f5dc;
 }
 
+.news{
+    margin-right: 430px;
+    margin-left: 430px;
+}
+
 .item-head {
+
     font-style: normal;
     margin-top: -150px;
     text-align: left;
     font-size: 45px;
 }
 
+.news-head{
+    font-style: normal;
+    margin-top: -150px;
+    text-align:left;
+    font-size: 45px;
+    margin-left: -250px;
+}
+
+
 p.agile {
+
     color: GrayText;
     text-align: left;
     font-size: 20px;
@@ -149,6 +166,36 @@ a.hyperlink {
     background-color: #f5f5dc;
 }
 
+p.news1{
+    color: GrayText;
+    text-align:left;
+    font-size: 20px;
+    line-height:1.5em;
+    margin-top: -210px;
+    margin-bottom: 0.4em;
+    margin-left: -60px;
+}
+
+p.news2{
+    color: GrayText;
+    text-align:left;
+    font-size: 20px;
+    line-height:1.5em;
+    margin-top: -597px;
+    margin-bottom: 0.4em;
+    margin-left: 230px;
+}
+
+p.news3{
+    color: GrayText;
+    text-align:left;
+    font-size: 20px;
+    line-height:1.5em;
+    margin-top: -395px;
+    margin-bottom: 0.4em;
+    margin-left: 500px;
+
+}
 #AboutUs {
     margin-left: 430px;
     margin-right: 430px;
