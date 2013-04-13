@@ -26,13 +26,15 @@
 }
 
 #Clients {
-    height: 300px;
+    padding: 150px;
     background-color: #f5f5dc;
 }
 
 #Work {
     height: 330px;
     background-color: white;
+    font-size: 30px;
+    font-family: Microsoft YaHei;
 }
 
 #News {
