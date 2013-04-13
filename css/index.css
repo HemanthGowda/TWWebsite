@@ -5,34 +5,34 @@
 }
 
 #Header{
-    padding: 200px;
+    height: 350px;
     text-align: left;
     margin-top: 5px;
     background-color: white;
 }
 
 #Clients {
-    padding: 150px;
+    height: 300px;
     background-color: #f5f5dc;
 }
 
 #Work{
-    padding: 200px;
+    height: 330px;
     background-color: white;
 }
 
 #News{
-    padding: 250px;
+    height: 400px;
     background-color: #f5f5dc;
 }
 
 #AboutUs{
-    padding: 200px;
+    height: 1000px;
     background-color: white;
 }
 
 #Footer{
-    padding: 90px;
+    height: 100px;
     background-color: black;
     text-decoration: underline;
     text-align: center;
