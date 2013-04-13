@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b7a597-60a8-4720-ad13-9c2b94b1a1c6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/consulting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/software-delivery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tools-and-training.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scopes/WhatWeDo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workspace.xml" afterPath="$PROJECT_DIR$/workspace.xml" />
     </list>
     <ignored path=".idea.iws" />
@@ -75,7 +86,7 @@
       <file leaf-file-name="WhatWeDo.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scopes/WhatWeDo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="63" selection-start="278" selection-end="278" vertical-scroll-proportion="0.23219815">
+            <state line="6" column="26" selection-start="278" selection-end="278" vertical-scroll-proportion="0.23219815">
               <folding />
             </state>
           </provider>
@@ -285,7 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -456,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scopes/WhatWeDo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="63" selection-start="278" selection-end="278" vertical-scroll-proportion="0.23219815">
+        <state line="6" column="26" selection-start="278" selection-end="278" vertical-scroll-proportion="0.23219815">
           <folding />
         </state>
       </provider>
