@@ -1,6 +1,8 @@
 #linksBar {
     text-align: left;
     font-size: 22px;
+    font-weight: lighter;
+
 }
 
 #Header {
@@ -27,7 +29,14 @@
 
 #Clients {
     height: 300px;
+    text-align: left;
     background-color: #f5f5dc;
+}
+
+#ClientHeader{
+    margin-right: 430px;
+    margin-left: 480px;
+    font-family: Calibri,serif;
 }
 
 #Work {
