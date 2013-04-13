@@ -40,8 +40,53 @@
 }
 
 #Work {
-    height: 330px;
+    height: 300px;
+    margin-top: 200;
     background-color: white;
+    margin-left: 430px;
+    margin-right: 430px;
+    font-size: 30px;
+    font-family: Microsoft YaHei;
+}
+
+#News {
+    padding: 250px;
+    background-color: #f5f5dc;
+}
+
+#Footer{
+    padding: 300px;
+    background-color: #f5f5dc;
+}
+
+.item-head{
+    font-style: normal;
+    margin-top: -150px;
+    text-align:left;
+    font-size: 45px;
+}
+p.agile{
+
+    text-align:left;
+    font-size: 20px;
+    line-height:1.5em;
+    margin-top: -210px;
+    margin-bottom: 0.4em;
+    margin-left: 190px;
+}
+
+p.sip{
+    text-align:left;
+    font-size: 20px;
+    line-height:1.5em;
+    margin-top: -245px;
+    margin-bottom: 0.4em;
+    margin-left: 660px;
+}
+a.hyperlink{
+    color: aquamarine;
+    font-size: 25px;
+    display:block;text-align:left;
 }
 
 #News {
@@ -50,7 +95,9 @@
 }
 
 #AboutUs {
-    height: 1000px;
+    margin-left: 430px;
+    margin-right: 430px;
+    height: 500px;
     background-color: white;
 }
 
@@ -59,4 +106,10 @@
     background-color: black;
     text-decoration: underline;
     text-align: center;
+}
+
+#AboutThoughtWorks,#HearFromUs{
+    height: 30px;
+    width: 500px;
+    float: left;
 }
