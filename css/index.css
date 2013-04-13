@@ -1,0 +1,32 @@
+#linksBar{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#Header{
+    padding: 200px;
+    text-align: left;
+    margin-top: 5px;
+    background-color: white;
+}
+
+#Clients {
+    padding: 150px;
+    background-color: #f5f5dc;
+}
+
+#Work{
+    padding: 200px;
+    background-color: white;
+}
+
+#News{
+    padding: 250px;
+    background-color: #f5f5dc;
+}
+
+#Footer{
+    padding: 300px;
+    background-color: #f5f5dc;
+}
