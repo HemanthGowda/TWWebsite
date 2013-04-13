@@ -86,7 +86,9 @@ a.hyperlink{
 }
 
 #AboutUs {
-    height: 1000px;
+    margin-left: 430px;
+    margin-right: 430px;
+    height: 500px;
     background-color: white;
 }
 
