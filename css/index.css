@@ -1,9 +1,19 @@
-#linksBar {
+a.blackLinksBar {
     text-align: left;
     font-size: 22px;
     font-weight: lighter;
     color: black;
     text-decoration: none   ;
+}
+
+a.pinkLinkBar{
+    color: #ff0e4d;
+    text-decoration: none;
+}
+
+a.blueLinkBar{
+    color: #5cb0ff;
+    text-decoration: none;
 }
 
 #Header {
@@ -12,7 +22,7 @@
     background-color: white;
     margin-right: 430px;
     margin-left: 430px;
-    font-size: 60px;
+    font-size: 22px;
 }
 
 #HeaderText {
