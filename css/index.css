@@ -110,3 +110,9 @@ a.hyperlink{
     text-decoration: underline;
     text-align: center;
 }
+
+#AboutThoughtWorks,#HearFromUs{
+    height: 30px;
+    width: 500px;
+    float: left;
+}
