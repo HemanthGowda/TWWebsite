@@ -1,14 +1,28 @@
 #linksBar {
     text-align: left;
-    font-size: 20px;
-    margin-left: 20px;
+    font-size: 22px;
 }
 
 #Header {
-    height: 350px;
+    height: 360px;
     text-align: left;
-    margin-top: 5px;
     background-color: white;
+    margin-right: 430px;
+    margin-left: 430px;
+    font-size: 60px;
+}
+
+#HeaderText {
+    font-size: 80px;
+    font-family: Century Gothic, fantasy;
+    font-weight: lighter;
+    color: black;
+}
+
+#HeaderDescription {
+    font-size: 26px;
+    font-family: serif;
+    color: #a9a9a9;
 }
 
 #Clients {
