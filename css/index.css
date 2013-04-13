@@ -26,7 +26,14 @@
     background-color: #f5f5dc;
 }
 
+#AboutUs{
+    padding: 200px;
+    background-color: white;
+}
+
 #Footer{
-    padding: 300px;
-    background-color: #f5f5dc;
+    padding: 90px;
+    background-color: black;
+    text-decoration: underline;
+    text-align: center;
 }
