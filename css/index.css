@@ -95,8 +95,8 @@ a.blueLinkBar{
     background-color: #f5f5dc;
 }
 
-#Footer {
-    padding: 300px;
+#Footer{
+    margin-top: -7em;
     background-color: #f5f5dc;
 }
 
@@ -151,12 +151,12 @@ a.hyperlink{
 #AboutUs {
     margin-left: 430px;
     margin-right: 430px;
-    height: 500px;
+    height: 400px;
     background-color: white;
 }
 
 #Footer {
-    height: 10px;
+    height: 120px;
     background-color: black;
     text-decoration: underline;
     text-align: center;
@@ -166,4 +166,19 @@ a.hyperlink{
     height: 30px;
     width: 500px;
     float: left;
+}
+
+.a{
+    color: white;
+    font-size: 20px;
+}
+
+.sociallinks{
+    color: blue;
+    font-size: 40px;
+}
+
+#img{
+    height: 40px;
+    width: 40px;
 }
