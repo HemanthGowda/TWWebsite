@@ -1,214 +1,84 @@
-a.blackLinksBar {
+.BlackLinksBar {
     font-family: Century Gothic, fantasy;
-    text-align: left;
-    font-size: 22px;
-    font-weight: lighter;
+    font-size: 20px;
     color: black;
     text-decoration: none;
 }
 
-a.pinkLinkBar {
+.PinkLinkBar {
     font-family: Century Gothic, fantasy;
     color: #ff0e4d;
-    font-size: 22px;
+    font-size: 20px;
     text-decoration: none;
 }
 
-a.blueLinkBar {
+.BlueLinkBar {
     font-family: Century Gothic, fantasy;
-    font-size: 22px;
+    font-size: 20px;
     color: #5cb0ff;
     text-decoration: none;
 }
 
-#HeaderText {
-    font-size: 80px;
+.WhiteLinksBar {
     font-family: Century Gothic, fantasy;
-    font-weight: lighter;
-    color: black;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: underline;
 }
 
-#HeaderDescription {
-    font-size: 30px;
-    font-family: serif;
+.Header {
+    font-size: 70px;
+    line-height: 90px;
+    font-family: Century Gothic, serif;
+}
+
+.HeaderDescription {
+    font-size: 20px;
+    font-family: Century Gothic, serif;
     color: #a9a9a9;
+    line-height: 30px;
 }
 
-#ClientsHead {
-    font-family: Microsoft YaHei, serif;
-    width: 10px;
-    margin-left: 430px;
-    font-size: 45px;
-}
-
-#client1 {
-    color: GrayText;
-    font-family: Microsoft YaHei, serif;
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -150px;
-    margin-bottom: 0.4em;
-    margin-left: 700px;
-}
-
-#client2 {
-    color: GrayText;
-    font-family: Microsoft YaHei, serif;
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -170px;
-    margin-bottom: 0.4em;
-    margin-left: 1100px;
-}
-
-#leftArrow {
-    margin-left: 580px;
-    margin-top: -110px;
-}
-
-#rightArrow {
-    text-align: right;
-    margin-right: 550px;
-    margin-top: -90px;
-}
-
-.news {
-    margin-right: 430px;
-    margin-left: 540px;
-}
-
-.item-head {
-    font-family: Microsoft YaHei, serif;
+.SectionHead {
+    font-family: Century Gothic, serif;
     font-style: normal;
-    margin-top: -150px;
     text-align: left;
-    font-size: 45px;
+    font-size: 55px;
+    line-height: 70px;
 }
 
-.news-head {
-    font-family: Microsoft YaHei, serif;
-    font-style: normal;
-    margin-top: -50px;
-    text-align: left;
-    font-size: 45px;
-    margin-left: -250px;
-}
-
-.footerText {
-    font-size: 20px;
-    font-family: Microsoft YaHei, serif;
+.TopicHead {
+    font-family: Century Gothic, serif;
     color: GrayText;
-}
-
-.footerHead {
-    font-family: Microsoft YaHei, serif;
-}
-
-p.agile {
-    font-family: Microsoft YaHei, serif;
-    color: GrayText;
-    text-align: left;
     font-size: 20px;
     line-height: 1.5em;
-    margin-top: -210px;
-    margin-bottom: 0.4em;
-    margin-left: 210px;
 }
 
-p.sip {
-    font-family: Microsoft YaHei, serif;
-    color: GrayText;
-    text-align: left;
+.TopicDescription {
     font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -400px;
-    margin-bottom: 0.4em;
-    margin-left: 510px;
+    font-family: Century Gothic, serif;
+    color: #5cb0ff;
 }
 
-p.osc {
-    font-family: Microsoft YaHei, serif;
-    color: GrayText;
-    text-align: left;
+.FooterHead {
+    font-family: Century Gothic, serif;
+    font-size: 34px;
+    line-height: 40px;
+}
+
+.FooterDescription {
+    font-family: Century Gothic, serif;
     font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -335px;
-    margin-bottom: 0.4em;
-    margin-left: 780px;
-    margin-right: 150px;
+    line-height: normal;
 }
 
-a.hyperlink {
-    text-decoration: none;
-    color: aquamarine;
-    font-size: 25px;
-    display: block;
-    text-align: left;
+.FooterLinks {
+    text-align: center;
 }
 
-p.news1 {
-    font-family: Microsoft YaHei, serif;
-    height: 400px;
-    background-color: #f5f5dc;
-}
-
-p.news1 {
-> > > > > > > 4483233 d4863a6e27faac66edb32be99d412b870 color : GrayText;
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -210px;
-    margin-bottom: 0.4em;
-    margin-left: -30px;
-}
-
-p.news2 {
-    font-family: Microsoft YaHei, serif;
-    color: GrayText;
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -410px;
-    margin-bottom: 0.4em;
-    margin-left: 270px;
-}
-
-p.news3 {
-    font-family: Microsoft YaHei, serif;
-    color: GrayText;
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.5em;
-    margin-top: -395px;
-    margin-bottom: 0.4em;
-    margin-left: 540px;
-
-}
-
-.a {
-    color: white;
-    font-size: 20px;
-}
-
-.socialLinks {
-    text-decoration: none;
-    color: blue;
-    font-size: 40px;
-}
-
-#img {
-    height: 40px;
-    width: 40px;
-}
-
-.socialLinksHeader {
-    font-family: Microsoft YaHei, serif;
-}
-
-.privacyPolicy {
-    color: white;
-    font-size: 20px;
-
+.PrivacyPolicy {
+    font-family: Century Gothic, serif;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
 }
