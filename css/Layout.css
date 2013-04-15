@@ -1,0 +1,22 @@
+.links {
+    color: #000000;
+    font-family: Century Gothic, fantasy;
+}
+
+.pinkLink {
+    color: deeppink;
+    font-family: Century Gothic, fantasy;
+}
+
+.blueLink {
+    color: deepskyblue;
+    font-family: Century Gothic, fantasy;
+}
+
+.fontFamily {
+    font-family: Century Gothic, fantasy;
+}
+
+.grayFont {
+    color: graytext;
+}
