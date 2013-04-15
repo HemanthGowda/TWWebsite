@@ -40,6 +40,7 @@
 }
 
 .SectionHead {
+    margin-top: 20px;
     font-family: Century Gothic, serif;
     font-style: normal;
     text-align: left;
@@ -55,6 +56,7 @@
 }
 
 .TopicDescription {
+    margin-top: 20px;
     font-size: 20px;
     font-family: Century Gothic, serif;
     color: GrayText;
@@ -70,6 +72,7 @@
     font-family: Century Gothic, serif;
     font-size: 20px;
     line-height: normal;
+    margin-top: 20px;
 }
 
 .FooterLinks {
@@ -80,5 +83,29 @@
     font-family: Century Gothic, serif;
     font-size: 16px;
     text-align: center;
+}
+
+.carousel-size {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.carosel-img-description {
+    width: 470px;
+    color: #ffffff;
+}
+
+.carosel-img-size {
+    height: 200px;
+    width: 900px;
+}
+
+.socialLinks {
+    width: 100px;
+    height: 100px;
+}
+
+.privacypolicyLink {
+    color: #1e90ff;
     text-decoration: underline;
 }

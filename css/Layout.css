@@ -5,42 +5,33 @@
 
 .ClientsLayout {
     text-align: left;
+    background-color: #f5f5dc;
     margin-top: 20px;
-    background-color: #b3b3b3;
 }
 
-#Work {
-    height: 430px;
-    margin-top: 200px;
-    background-color: white;
-    margin-left: 430px;
-    margin-right: 430px;
+.WorkLayout {
+    background-color: #ffffff;
 }
 
-#News {
-    padding: 130px;
-    background-color: #f5f5dc;
-    height: 400px;
+.NewsLayout {
     background-color: #f5f5dc;
 }
 
-#Footer {
-    margin-top: -7em;
+.FooterLayout {
     background-color: black;
-    height: 120px;
-    text-decoration: underline;
-    text-align: center;
 }
 
-#AboutUs {
-    margin-left: 430px;
-    margin-right: 430px;
-    height: 400px;
-    background-color: white;
+.AboutUsLayout {
+    background-color: #ffffff;
 }
 
 #AboutThoughtWorks, #HearFromUs {
     height: 30px;
     width: 500px;
     float: left;
+}
+
+.SectionDescription {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
