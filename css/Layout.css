@@ -1,22 +1,46 @@
-.links {
-    color: #000000;
-    font-family: Century Gothic, fantasy;
+.HeaderLayout {
+    background-color: white;
+    margin-bottom: 20px;
 }
 
-.pinkLink {
-    color: deeppink;
-    font-family: Century Gothic, fantasy;
+.ClientsLayout {
+    text-align: left;
+    margin-top: 20px;
+    background-color: #b3b3b3;
 }
 
-.blueLink {
-    color: deepskyblue;
-    font-family: Century Gothic, fantasy;
+#Work {
+    height: 430px;
+    margin-top: 200px;
+    background-color: white;
+    margin-left: 430px;
+    margin-right: 430px;
 }
 
-.fontFamily {
-    font-family: Century Gothic, fantasy;
+#News {
+    padding: 130px;
+    background-color: #f5f5dc;
+    height: 400px;
+    background-color: #f5f5dc;
 }
 
-.grayFont {
-    color: graytext;
+#Footer {
+    margin-top: -7em;
+    background-color: black;
+    height: 120px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#AboutUs {
+    margin-left: 430px;
+    margin-right: 430px;
+    height: 400px;
+    background-color: white;
+}
+
+#AboutThoughtWorks, #HearFromUs {
+    height: 30px;
+    width: 500px;
+    float: left;
 }
