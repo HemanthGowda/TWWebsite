@@ -1,0 +1,8 @@
+Release Note 1 - 15/04/2013 - 03:40
+
+Done:
+1. Fixed resolution to work in all devices.
+2. Fixed sliding images.
+
+Yet to be Done:
+1. At some point the contents are overlapping when you zoom
